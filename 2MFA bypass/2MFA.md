@@ -45,5 +45,9 @@ Resoponse Manipulation
 
 
 
+1.login to  a account and enable 2mfa
+2.now use the cookie tool and copy the cookie paste it in a browser 
+3. the acc will loggedin without asking for 2mfa
+
 --- authenticate yourself, if the 2FA is still poped up and you got cookie/token, copy the 2FA enabled account and paste it to another user.
 
